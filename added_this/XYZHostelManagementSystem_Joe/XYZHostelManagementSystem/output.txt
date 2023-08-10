@@ -1,0 +1,6 @@
+Name: s
+Course: s
+Email: s
+Emergency Contact: s
+Age: s
+Address: s

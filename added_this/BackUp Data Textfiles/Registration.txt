@@ -1,0 +1,54 @@
+StudentID:w
+Username:e
+Password:e
+Confirmpassword:e
+PhoneNumber:e
+EmailAddress:e
+EmailAddress:e
+Gender:Male
+
+StudentID:s
+Username:s
+Password:s
+Confirmpassword:s
+PhoneNumber:s
+EmailAddress:s
+EmailAddress:s
+Gender:Select a Gender
+
+StudentID:s
+Username:s
+Password:s
+Confirmpassword:s
+PhoneNumber:s
+EmailAddress:s
+EmailAddress:s
+Gender:Select a Gender
+
+StudentID:e
+Username:e
+Password:e
+Confirmpassword:e
+PhoneNumber:e
+EmailAddress:e
+EmailAddress:e
+Gender:Female
+
+StudentID:e
+Username:e
+Password:ee
+Confirmpassword:e
+PhoneNumber:e
+EmailAddress:e
+EmailAddress:e
+Gender:Select a Gender
+
+StudentID:
+Username:
+Password:
+Confirmpassword:
+PhoneNumber:
+EmailAddress:
+EmailAddress:
+Gender:Select a Gender
+

@@ -1,0 +1,2 @@
+SID1|Wong Jia Joe|HR1|Dormitory|RM350|Reject|2023-06-05
+SID2|Daniel Poh|HR4|Dormitory|RM350|Reject|2023-06-05

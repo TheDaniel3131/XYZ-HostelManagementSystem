@@ -1,0 +1,19 @@
+**********************
+**********************
+   Room Report   
+**********************
+**********************
+
+Room No., Room Type, Room Capacity, Room Status, Room Price
+HR1, Shared, 5, Available, RM850
+HR2, Shared, 5, Available, RM550
+HR3, Private, 2, Available, RM950
+HR4, Dormitory, 8, Available, RM400
+HR5, Dormitory, 8, Available, RM450
+HR8, Shared, 5, Available, RM550
+HR13, Shared, 5, Available, RM350.00
+
+***************************************
+   Generated On: 2023-06-14 00:27:18
+   Signature: admin
+***************************************

@@ -1,0 +1,55 @@
+StudentID: S01
+Username: jjwong
+Password: jjwong123
+ConfirmPassword :jjwong123
+PhoneNumber :012-3456789
+EmailAddress: jjwong@gmail.com
+Nationality:A Malaysian
+Gender: Male
+
+StudentID: S02
+Username: jackinfu
+Password: jackinfu
+ConfirmPassword :jackinfu
+PhoneNumber :012-3456790
+EmailAddress: jackinfu@gmail.com
+Nationality:A Malaysian
+Gender: Male
+
+StudentID: S03
+Username: adamlee
+Password: adamlee
+ConfirmPassword :adamlee
+PhoneNumber :012-3456798
+EmailAddress: adamlee@gmail.com
+Nationality:A Malaysian
+Gender: Male
+
+StudentID: S04
+Username: jessicalow
+Password: jessicalow
+ConfirmPassword :jessicalow
+PhoneNumber :012-3456598
+EmailAddress: jessicalow@gmail.com
+Nationality:A Singaporean
+Gender: Female
+
+StudentID: S05
+Username: madelinewang
+Password: madelinewang
+ConfirmPassword :madelinewang
+PhoneNumber :012-3456328
+EmailAddress: madelinewang@gmail.com
+Nationality:A Indonesian
+Gender: Female
+
+StudentID: sdf
+Username: sdf
+Password: sdf
+ConfirmPassword :sdf
+PhoneNumber :sdf
+EmailAddress: sdf
+Nationality: sdf
+Gender: Female
+
+

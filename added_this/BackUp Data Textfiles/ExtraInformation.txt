@@ -1,0 +1,18 @@
+StudentID:SD0001
+Age:17
+DOB:25-6-2004
+HomeAddress:32, 1/6 Jalan ABC, Taman ABC.
+State:SELANGOR
+Zipcode:43253
+Course:Programmer
+Intake:AB123456
+
+StudentID:SD0002
+Age:18
+DOB:23-5-2002
+HomeAddress:32, 1/6 Jalan ABC, Taman ABC.
+State:Selangor
+Zipcode:43250
+Course:Programmer
+Intake:AC123456
+

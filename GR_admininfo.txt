@@ -1,0 +1,7 @@
+XYZ Hostel Management Service.
+12 Jalan Bukit Bintang,
+55100 Kuala Lumpur,
+Wilayah Persekutuan Kuala Lumpur,
+Malaysia.
++60(3) 1234-5678
+info@xyzhostel.my

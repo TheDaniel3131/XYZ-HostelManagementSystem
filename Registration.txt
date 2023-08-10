@@ -1,0 +1,9 @@
+SID1|Joe|1234|1234|1235566|1234@gmail.com|Malaysian|Male|
+SID2|Joe|12345|12345|0127818929|1234@gmail.com|Malaysia|Male|
+SID3|asdf|asdf|asdf|12343242|haha@gmail.com|asdf|Male|
+SID4|fasdf|asdf|asdf|23423423|hahaha@gmail.com|asdf|Male|
+SID5|ASDF|SDF|SDF|234324|DSFASDF@GMAIL.COM|ASDFSD|Male|
+SID6|joewongjiajoe|123|123|0125223423|joewong@gmaill.com|Malaysian|Male|
+SID7|Thum Yong Hui|123|123|01234566789|tyh@gmail.com|Singaporean|Male|
+SID8|James Bond|jb123|jb123|01242342342|jb@gmail.com|American|Male|
+SID9|Jackin Fu|jackfu123|jackfu123|03423423423|jackin@gmail.com|Malaysian|Male|

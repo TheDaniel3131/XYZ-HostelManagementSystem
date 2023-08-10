@@ -1,0 +1,12 @@
+
+Total Rent Per Month: 15000.00
+Total Applied Students: 100
+Approved Students: 80
+Rejected Students: 20
+Total Rooms: 50
+Occupied Rooms: 35
+Other Income Per Month: 3500.00
+Staff Salary Per Month: 1500.00
+Utilities Per Month: 1000.00
+Maintenance Salary Per Month: 2000.00
+

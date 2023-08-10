@@ -1,0 +1,3 @@
+Total Hostel Rooms: 13
+Total Occupied Rooms: 6
+Occupancy Rate: 46.15%

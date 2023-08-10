@@ -1,0 +1,2 @@
+SID1| 18|25-6-2004|32,1/6,Jalan ABC,Taman ABC|Selangor|42343|Programmer|AB123456
+SID2|21|23-5-2002|32,1/6,Jalan ABC,Taman ABC|Selangor|43205|Programmer|AB123456

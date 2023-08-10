@@ -1,0 +1,7 @@
+Name:e,Course:e,Email:e,Intake:e,Age:e,Address:e,Prefered Room Number:Item 3,Approve
+Name:e,Course:e,Email:e,Intake:e,Age:e,Address:e,Prefered Room Number:Item 4,Approve
+Name:e,Course:e,Email:e,Intake:e,Age:e,Address:e,Prefered Room Number:Item 3,Reject
+Name:e,Course:e,Email:e,Intake:e,Age:e,Address:e,Prefered Room Number:Item 4,Reject
+Name:e,Course:e,Email:e,Intake:e,Age:e,Address:e,Prefered Room Number:Item 3,Reject
+Name:e,Course:e,Email:e,Intake:e,Age:e,Address:e,Prefered Room Number:Item 3,Approve
+Name:e,Course:e,Email:e,Intake:e,Age:e,Address:e,Prefered Room Number:Item 3,Approve

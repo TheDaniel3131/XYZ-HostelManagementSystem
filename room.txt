@@ -1,0 +1,13 @@
+Room No., Room Type, Room Capacity, Room Status, Room Price
+HR1, Shared, 5, Available, RM850
+HR2, Shared, 5, Available, RM550
+HR3, Private, 2, Available, RM950
+HR4, Dormitory, 8, Available, RM400
+HR5, Dormitory, 8, Available, RM450
+HR6, Shared, 6, Unavailable, RM750
+HR7, Shared, 6, Unavailable, RM1200
+HR8, Shared, 5, Available, RM550
+HR9, Dormitory, 5, Unavailable, RM550
+HR10, Private, 2, Unavailable, RM1950
+HR13, Shared, 5, Available, RM350.00
+HR14, Dormitory, 5, Unavailable, RM350.00

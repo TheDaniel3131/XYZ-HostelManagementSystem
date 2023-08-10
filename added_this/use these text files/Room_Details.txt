@@ -1,0 +1,9 @@
+Room No., Room Type, Room Capacity, Room Status, Room Price
+HR1,Dormitory, 4,Available,RM600.00
+HR2,Shared, 5,Unavailable,RM850.00
+HR3,Private, 1,Unavailable,RM1050.00
+HR4,Shared, 5,Available,RM850.00
+HR5,Dormitory, 6,Available,RM600.00
+HR6,Dormitory, 5,Available,RM350.00
+HR8,Dormitory, 5,Available,RM600.00
+HR9,Dormitory, 5,Available,RM1000.00

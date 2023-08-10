@@ -1,0 +1,20 @@
+Name:Wong Jia Joe 
+Age:23
+Email:wongjj@gmail.com
+CardNumber:2343 5235 5125 2334
+CVV:225
+Address:39, 1/2 JALAN ABC, TAMAN ABC.
+State:SELANGOR
+ZipCode:46244
+RoomNumber:HR001
+
+
+Name:Daniel Poh 
+Age:23
+Email:dp1337@gmail.com
+CardNumber:5243 5235 5235 4234
+CVV:225
+Address:39, 1/2 JALAN ABC, TAMAN ABC.
+State:SELANGOR
+ZipCode:42424
+RoomNumber:HR002

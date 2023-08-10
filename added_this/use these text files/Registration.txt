@@ -1,0 +1,15 @@
+SID1|Joe|1234|1234|0127818929|1234@gmail.com|Malaysian|Male|
+SID1|Joe|1234567|1234567|0127818929|1234@gmail.com|Malaysian|Male|
+SID1|Joe|1223456|1223456|0127818929|1234@gmail.com|Malaysian|Male|
+SID1|Joe|12345|12345|0127818929|1234@gmail.com|Malaysian|Select a Gender|
+SID1|Joe|1234|1234|1234567|1234@gmail.com|Malaysian|Select a Gender|
+SID2|Jayson|13434|13434|1234567|1234@gmail.com|Malaysian|Male|
+SID1|e|1234|1234|1234|1234|1234|Select a Gender|
+SID2|e|1234|1234|1234|1234@gmail.com|1234|Select a Gender|
+SID1|e|e|e|e|e|e|Select a Gender|
+SID2|e|e|e|e|1234@gmail.com|e|Select a Gender|
+SID3|e|e|e|1234556|1234@gmail.com|e|Select a Gender|
+SID1|1234|1234|1234|12334|1234@gmail.com|Malaysian|Male|
+SID1|Joe|1234|1234|1235566|1234@gmail.com|Malaysian|Male|
+SID1|Joe|12345|12345|0127818929|1234@gmail.com|Malaysia|Male|
+SID2|AWD|12345|12345|0127818929|1234@gmail.com|Malaysian|Male|
